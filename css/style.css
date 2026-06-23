@@ -25,6 +25,5 @@ body {
 }
 
 .disable {
-    /* visibility: hidden; */
     pointer-events: none;
 }
